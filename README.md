@@ -8,8 +8,7 @@
     .txt file successfully calculating the grades (this is why I made sure to have those output
     as well, since abnormalities can come up).
   - Redundancy of variable declaration certainly not needed but wanted to ensure I could reference those values in
-    overall_calc function. Definitely a better way to do it (and that works, since I presume that is the root of my pro-
-    blem with the program outputting 0 in that specific .txt file.
+    overall_calc function. Definitely a better way to do it (and that works, since I presume that is the root of my problem with the program outputting 0 in that specific .txt file.
   - Attempted to do individual class files but unsure if I could implement it in the 1-3 hour window, which I wanted to
     adhere to.
   - If I had more time, I would certainly add/do:
